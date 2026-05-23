@@ -1,0 +1,290 @@
+name: Fox Rothschild LLP
+description: >-
+  Fox Rothschild LLP is a national US law firm with approximately 1,000
+  attorneys across 30+ offices. The firm has no public developer APIs. Its
+  programmatic surface is limited to publication and content distribution:
+  subscription-based email alerts and 21+ topical attorney-authored blogs
+  hosted on the LexBlog (WordPress) platform, each of which exposes a standard
+  WordPress RSS 2.0 feed at /feed/. This index catalogs the firm and the
+  RSS-able LexBlog network as the consumable surface.
+url: https://raw.githubusercontent.com/api-evangelist/fox-rothschild/main/apis.yml
+humanURL: https://www.foxrothschild.com
+image: https://www.foxrothschild.com/themes/custom/fox/logo.svg
+tags:
+  - Law Firm
+  - Legal
+  - Professional Services
+  - Blogs
+  - RSS
+  - LexBlog
+  - Publications
+  - Content
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+
+common:
+  - type: WebSite
+    url: https://www.foxrothschild.com
+  - type: Publications
+    url: https://www.foxrothschild.com/publications
+  - type: Blogs
+    url: https://www.foxrothschild.com/blogs
+  - type: News
+    url: https://www.foxrothschild.com/news
+  - type: Subscribe
+    url: https://www.foxrothschild.com/subscribe
+  - type: Services
+    url: https://www.foxrothschild.com/services
+  - type: Offices
+    url: https://www.foxrothschild.com/offices
+  - type: Attorneys
+    url: https://www.foxrothschild.com/attorneys
+  - type: Contact
+    url: https://www.foxrothschild.com/contact-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fox-rothschild-llp
+  - type: X
+    url: https://x.com/FoxRothschild
+  - type: Facebook
+    url: https://www.facebook.com/FoxRothschildLLP
+  - type: Instagram
+    url: https://www.instagram.com/foxrothschildllp/
+
+apis:
+
+  - name: Above the Fold — Advertising, Trademark & Copyright Law Blog
+    description: Attorney-authored LexBlog covering advertising, trademark, and copyright law.
+    humanURL: https://advertisinglaw.foxrothschild.com/
+    baseURL: https://advertisinglaw.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Advertising, Trademark, Copyright, Intellectual Property]
+    properties:
+      - type: Blog
+        url: https://advertisinglaw.foxrothschild.com/
+      - type: RSS
+        url: https://advertisinglaw.foxrothschild.com/feed/
+
+  - name: California Employment Law Blog
+    description: Attorney-authored LexBlog covering California-specific employment law developments.
+    humanURL: https://californiaemploymentlaw.foxrothschild.com/
+    baseURL: https://californiaemploymentlaw.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Employment, Labor, California]
+    properties:
+      - type: Blog
+        url: https://californiaemploymentlaw.foxrothschild.com/
+      - type: RSS
+        url: https://californiaemploymentlaw.foxrothschild.com/feed/
+
+  - name: Delaware Chancery Law Blog
+    description: Attorney-authored LexBlog covering Delaware Court of Chancery decisions and corporate governance.
+    humanURL: https://delawarechancery.foxrothschild.com/
+    baseURL: https://delawarechancery.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Corporate, Delaware, Chancery, Governance]
+    properties:
+      - type: Blog
+        url: https://delawarechancery.foxrothschild.com/
+      - type: RSS
+        url: https://delawarechancery.foxrothschild.com/feed/
+
+  - name: Employment Class Actions — A General Counsel Briefing
+    description: Attorney-authored LexBlog focused on employment class action litigation.
+    humanURL: https://employmentclassactions.foxrothschild.com/
+    baseURL: https://employmentclassactions.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Employment, Class Action, Litigation]
+    properties:
+      - type: Blog
+        url: https://employmentclassactions.foxrothschild.com/
+      - type: RSS
+        url: https://employmentclassactions.foxrothschild.com/feed/
+
+  - name: New Jersey Family Law Blog
+    description: Attorney-authored LexBlog covering New Jersey family law.
+    humanURL: https://njfamilylaw.foxrothschild.com/
+    baseURL: https://njfamilylaw.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Family Law, New Jersey]
+    properties:
+      - type: Blog
+        url: https://njfamilylaw.foxrothschild.com/
+      - type: RSS
+        url: https://njfamilylaw.foxrothschild.com/feed/
+
+  - name: Pennsylvania Family Law Blog
+    description: Attorney-authored LexBlog covering Pennsylvania family law.
+    humanURL: https://pafamilylaw.foxrothschild.com/
+    baseURL: https://pafamilylaw.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Family Law, Pennsylvania]
+    properties:
+      - type: Blog
+        url: https://pafamilylaw.foxrothschild.com/
+      - type: RSS
+        url: https://pafamilylaw.foxrothschild.com/feed/
+
+  - name: Federal Government Contracts & Procurement Blog
+    description: Attorney-authored LexBlog covering federal contracting and procurement law.
+    humanURL: https://governmentcontracts.foxrothschild.com/
+    baseURL: https://governmentcontracts.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Government Contracts, Procurement, Federal]
+    properties:
+      - type: Blog
+        url: https://governmentcontracts.foxrothschild.com/
+      - type: RSS
+        url: https://governmentcontracts.foxrothschild.com/feed/
+
+  - name: Franchise Law Update
+    description: Attorney-authored LexBlog covering franchise and distribution law.
+    humanURL: https://franchiselaw.foxrothschild.com/
+    baseURL: https://franchiselaw.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Franchise, Distribution]
+    properties:
+      - type: Blog
+        url: https://franchiselaw.foxrothschild.com/
+      - type: RSS
+        url: https://franchiselaw.foxrothschild.com/feed/
+
+  - name: Global Dispute Resolution Insights
+    description: Attorney-authored LexBlog covering international arbitration and global disputes.
+    humanURL: https://globaldisputeresolutioninsights.foxrothschild.com/
+    baseURL: https://globaldisputeresolutioninsights.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Arbitration, Dispute Resolution, International]
+    properties:
+      - type: Blog
+        url: https://globaldisputeresolutioninsights.foxrothschild.com/
+      - type: RSS
+        url: https://globaldisputeresolutioninsights.foxrothschild.com/feed/
+
+  - name: Health Care Law Matters
+    description: Attorney-authored LexBlog covering health care regulatory and transactional law.
+    humanURL: https://healthcarelawmatters.foxrothschild.com/
+    baseURL: https://healthcarelawmatters.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Health Care, Regulatory]
+    properties:
+      - type: Blog
+        url: https://healthcarelawmatters.foxrothschild.com/
+      - type: RSS
+        url: https://healthcarelawmatters.foxrothschild.com/feed/
+
+  - name: Immigration View
+    description: Attorney-authored LexBlog covering US business and family immigration law.
+    humanURL: https://immigrationview.foxrothschild.com/
+    baseURL: https://immigrationview.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Immigration]
+    properties:
+      - type: Blog
+        url: https://immigrationview.foxrothschild.com/
+      - type: RSS
+        url: https://immigrationview.foxrothschild.com/feed/
+
+  - name: In Solvency
+    description: Attorney-authored LexBlog covering bankruptcy and financial restructuring.
+    humanURL: https://insolvency.foxrothschild.com/
+    baseURL: https://insolvency.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Bankruptcy, Restructuring, Insolvency]
+    properties:
+      - type: Blog
+        url: https://insolvency.foxrothschild.com/
+      - type: RSS
+        url: https://insolvency.foxrothschild.com/feed/
+
+  - name: In the Weeds — Cannabis Law Blog
+    description: Attorney-authored LexBlog covering cannabis industry legal developments. RSS feed confirmed active (WordPress 6.8.5 / LexBlog generator).
+    humanURL: https://cannabislaw.foxrothschild.com/
+    baseURL: https://cannabislaw.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Cannabis, Regulatory]
+    properties:
+      - type: Blog
+        url: https://cannabislaw.foxrothschild.com/
+      - type: RSS
+        url: https://cannabislaw.foxrothschild.com/feed/
+
+  - name: It's Just Business — NC Business Court Blog
+    description: Attorney-authored LexBlog covering the North Carolina Business Court.
+    humanURL: https://itsjustbusiness.foxrothschild.com/
+    baseURL: https://itsjustbusiness.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, North Carolina, Business Litigation]
+    properties:
+      - type: Blog
+        url: https://itsjustbusiness.foxrothschild.com/
+      - type: RSS
+        url: https://itsjustbusiness.foxrothschild.com/feed/
+
+  - name: North Carolina Appellate Blog
+    description: Attorney-authored LexBlog covering North Carolina appellate practice.
+    humanURL: https://ncapb.foxrothschild.com/
+    baseURL: https://ncapb.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Appellate, North Carolina]
+    properties:
+      - type: Blog
+        url: https://ncapb.foxrothschild.com/
+      - type: RSS
+        url: https://ncapb.foxrothschild.com/feed/
+
+  - name: Pay or Play — Entertainment & Sports Law Blog
+    description: Attorney-authored LexBlog covering entertainment and sports law.
+    humanURL: https://payorplay.foxrothschild.com/
+    baseURL: https://payorplay.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Entertainment, Sports]
+    properties:
+      - type: Blog
+        url: https://payorplay.foxrothschild.com/
+      - type: RSS
+        url: https://payorplay.foxrothschild.com/feed/
+
+  - name: PFAS and Emerging Contaminants Blog
+    description: Attorney-authored LexBlog covering PFAS regulation and emerging environmental contaminants.
+    humanURL: https://pfas.foxrothschild.com/
+    baseURL: https://pfas.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Environmental, PFAS, Regulatory]
+    properties:
+      - type: Blog
+        url: https://pfas.foxrothschild.com/
+      - type: RSS
+        url: https://pfas.foxrothschild.com/feed/
+
+  - name: Plane-ly Spoken — Aviation Law Blog
+    description: Attorney-authored LexBlog covering aviation and drone law.
+    humanURL: https://plane-lyspoken.foxrothschild.com/
+    baseURL: https://plane-lyspoken.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Aviation, Drone]
+    properties:
+      - type: Blog
+        url: https://plane-lyspoken.foxrothschild.com/
+      - type: RSS
+        url: https://plane-lyspoken.foxrothschild.com/feed/
+
+  - name: Privacy Compliance & Data Security Blog
+    description: Attorney-authored LexBlog covering data privacy law and cybersecurity compliance.
+    humanURL: https://dataprivacy.foxrothschild.com/
+    baseURL: https://dataprivacy.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Privacy, Data Security, Cybersecurity]
+    properties:
+      - type: Blog
+        url: https://dataprivacy.foxrothschild.com/
+      - type: RSS
+        url: https://dataprivacy.foxrothschild.com/feed/
+
+  - name: Tax Controversy & Financial Crimes Report
+    description: Attorney-authored LexBlog covering tax controversy, IRS disputes, and financial crime defense.
+    humanURL: https://taxcontroversy.foxrothschild.com/
+    baseURL: https://taxcontroversy.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Tax, White Collar, Controversy]
+    properties:
+      - type: Blog
+        url: https://taxcontroversy.foxrothschild.com/
+      - type: RSS
+        url: https://taxcontroversy.foxrothschild.com/feed/
+
+  - name: Wage & Hour — Developments & Highlights
+    description: Attorney-authored LexBlog covering FLSA and wage-and-hour litigation developments.
+    humanURL: https://wagehourlaw.foxrothschild.com/
+    baseURL: https://wagehourlaw.foxrothschild.com
+    tags: [Blog, RSS, LexBlog, Wage and Hour, FLSA, Employment]
+    properties:
+      - type: Blog
+        url: https://wagehourlaw.foxrothschild.com/
+      - type: RSS
+        url: https://wagehourlaw.foxrothschild.com/feed/
+
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
