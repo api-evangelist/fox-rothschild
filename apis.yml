@@ -25,11 +25,11 @@ specificationVersion: '0.20'
 type: Index
 
 common:
-  - type: WebSite
+  - type: Website
     url: https://www.foxrothschild.com
   - type: Publications
     url: https://www.foxrothschild.com/publications
-  - type: Blogs
+  - type: Blog
     url: https://www.foxrothschild.com/blogs
   - type: News
     url: https://www.foxrothschild.com/news

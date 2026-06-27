@@ -12,7 +12,7 @@
       "source": "https://californiaemploymentlaw.foxrothschild.com/feed/",
       "feed_url": "https://californiaemploymentlaw.foxrothschild.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -26,7 +26,7 @@
       "source": "https://employmentclassactions.foxrothschild.com/feed/",
       "feed_url": "https://employmentclassactions.foxrothschild.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "source": "https://governmentcontracts.foxrothschild.com/feed/",
       "feed_url": "https://governmentcontracts.foxrothschild.com/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
@@ -96,7 +96,7 @@
       "source": "https://itsjustbusiness.foxrothschild.com/feed/",
       "feed_url": "https://itsjustbusiness.foxrothschild.com/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
@@ -117,7 +117,7 @@
       "source": "https://pfas.foxrothschild.com/feed/",
       "feed_url": "https://pfas.foxrothschild.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -131,14 +131,14 @@
       "source": "https://dataprivacy.foxrothschild.com/feed/",
       "feed_url": "https://dataprivacy.foxrothschild.com/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 4,
       "method": "feed"
     },
     {
       "source": "https://taxcontroversy.foxrothschild.com/feed/",
       "feed_url": "https://taxcontroversy.foxrothschild.com/feed/",
       "title": "",
-      "saved": 2,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -150,7 +150,10 @@
     },
     {
       "source": "https://www.foxrothschild.com/publications",
-      "error": "HTTPError"
+      "feed_url": "https://www.foxrothschild.com/publications",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     },
     {
       "source": "https://www.instagram.com/foxrothschildllp/",
@@ -307,6 +310,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 9,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 21,
+  "fetched": "2026-06-27T12:03:07Z"
 }
