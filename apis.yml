@@ -25,6 +25,8 @@ specificationVersion: '0.20'
 type: Index
 
 common:
+  - type: DomainSecurity
+    url: security/fox-rothschild-domain-security.yml
   - type: Website
     url: https://www.foxrothschild.com
   - type: Publications
