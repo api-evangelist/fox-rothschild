@@ -33,7 +33,7 @@
       "source": "https://njfamilylaw.foxrothschild.com/feed/",
       "feed_url": "https://njfamilylaw.foxrothschild.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "source": "https://governmentcontracts.foxrothschild.com/feed/",
       "feed_url": "https://governmentcontracts.foxrothschild.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -96,7 +96,7 @@
       "source": "https://itsjustbusiness.foxrothschild.com/feed/",
       "feed_url": "https://itsjustbusiness.foxrothschild.com/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -131,7 +131,7 @@
       "source": "https://dataprivacy.foxrothschild.com/feed/",
       "feed_url": "https://dataprivacy.foxrothschild.com/feed/",
       "title": "",
-      "saved": 4,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -310,6 +310,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 21,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 214,
+  "fetched": "2026-07-11T11:50:51Z"
 }
