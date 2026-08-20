@@ -25,6 +25,15 @@ tags:
   - Law Firm
   - Legal
   - Professional Services
+  - Blog
+  - RSS
+  - LexBlog
+  - Publications
+  - Content
+tags_raw:
+  - Law Firm
+  - Legal
+  - Professional Services
   - Blogs
   - RSS
   - LexBlog
@@ -170,7 +179,18 @@ apis:
     description: Attorney-authored LexBlog covering health care regulatory and transactional law.
     humanURL: https://healthcarelawmatters.foxrothschild.com/
     baseURL: https://healthcarelawmatters.foxrothschild.com
-    tags: [Blog, RSS, LexBlog, Health Care, Regulatory]
+    tags:
+    - Blog
+    - RSS
+    - LexBlog
+    - Healthcare
+    - Regulatory
+    tags_raw:
+    - Blog
+    - RSS
+    - LexBlog
+    - Health Care
+    - Regulatory
     properties:
       - type: Blog
         url: https://healthcarelawmatters.foxrothschild.com/
