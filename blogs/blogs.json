@@ -20,14 +20,18 @@
       "feed_url": "https://delawarechancery.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "vendor-blog",
+      "nature_basis": "path_blog"
     },
     {
       "source": "https://employmentclassactions.foxrothschild.com/feed/",
       "feed_url": "https://employmentclassactions.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://njfamilylaw.foxrothschild.com/feed/",
@@ -41,7 +45,9 @@
       "feed_url": "https://pafamilylaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://governmentcontracts.foxrothschild.com/feed/",
@@ -62,7 +68,9 @@
       "feed_url": "https://globaldisputeresolutioninsights.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://healthcarelawmatters.foxrothschild.com/feed/",
@@ -76,21 +84,27 @@
       "feed_url": "https://immigrationview.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://insolvency.foxrothschild.com/feed/",
       "feed_url": "https://insolvency.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://cannabislaw.foxrothschild.com/feed/",
       "feed_url": "https://cannabislaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://itsjustbusiness.foxrothschild.com/feed/",
@@ -111,7 +125,9 @@
       "feed_url": "https://payorplay.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://pfas.foxrothschild.com/feed/",
@@ -146,7 +162,9 @@
       "feed_url": "https://wagehourlaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "feed",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://www.foxrothschild.com/publications",
@@ -181,14 +199,18 @@
       "feed_url": "https://delawarechancery.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "vendor-blog",
+      "nature_basis": "path_blog"
     },
     {
       "source": "https://employmentclassactions.foxrothschild.com/",
       "feed_url": "https://employmentclassactions.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://njfamilylaw.foxrothschild.com/",
@@ -202,7 +224,9 @@
       "feed_url": "https://pafamilylaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://governmentcontracts.foxrothschild.com/",
@@ -223,7 +247,9 @@
       "feed_url": "https://globaldisputeresolutioninsights.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://healthcarelawmatters.foxrothschild.com/",
@@ -237,21 +263,27 @@
       "feed_url": "https://immigrationview.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://insolvency.foxrothschild.com/",
       "feed_url": "https://insolvency.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://cannabislaw.foxrothschild.com/",
       "feed_url": "https://cannabislaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://itsjustbusiness.foxrothschild.com/",
@@ -272,7 +304,9 @@
       "feed_url": "https://payorplay.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     },
     {
       "source": "https://pfas.foxrothschild.com/",
@@ -307,9 +341,14 @@
       "feed_url": "https://wagehourlaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "discovered",
+      "nature": "undetermined",
+      "nature_basis": null
     }
   ],
   "post_count": 244,
-  "fetched": "2026-08-30T22:33:40Z"
+  "fetched": "2026-08-30T22:33:40Z",
+  "feed_nature": "vendor-blog",
+  "feed_nature_basis": "path_blog",
+  "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
 }
