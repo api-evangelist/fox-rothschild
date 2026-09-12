@@ -2,171 +2,6 @@
   "repo": "fox-rothschild",
   "feeds": [
     {
-      "source": "https://advertisinglaw.foxrothschild.com/feed/",
-      "feed_url": "https://advertisinglaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://californiaemploymentlaw.foxrothschild.com/feed/",
-      "feed_url": "https://californiaemploymentlaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://delawarechancery.foxrothschild.com/feed/",
-      "feed_url": "https://delawarechancery.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "vendor-blog",
-      "nature_basis": "path_blog"
-    },
-    {
-      "source": "https://employmentclassactions.foxrothschild.com/feed/",
-      "feed_url": "https://employmentclassactions.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://njfamilylaw.foxrothschild.com/feed/",
-      "feed_url": "https://njfamilylaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://pafamilylaw.foxrothschild.com/feed/",
-      "feed_url": "https://pafamilylaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://governmentcontracts.foxrothschild.com/feed/",
-      "feed_url": "https://governmentcontracts.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://franchiselaw.foxrothschild.com/feed/",
-      "feed_url": "https://franchiselaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://globaldisputeresolutioninsights.foxrothschild.com/feed/",
-      "feed_url": "https://globaldisputeresolutioninsights.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://healthcarelawmatters.foxrothschild.com/feed/",
-      "feed_url": "https://healthcarelawmatters.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://immigrationview.foxrothschild.com/feed/",
-      "feed_url": "https://immigrationview.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://insolvency.foxrothschild.com/feed/",
-      "feed_url": "https://insolvency.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://cannabislaw.foxrothschild.com/feed/",
-      "feed_url": "https://cannabislaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://itsjustbusiness.foxrothschild.com/feed/",
-      "feed_url": "https://itsjustbusiness.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://ncapb.foxrothschild.com/feed/",
-      "feed_url": "https://ncapb.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://payorplay.foxrothschild.com/feed/",
-      "feed_url": "https://payorplay.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://pfas.foxrothschild.com/feed/",
-      "feed_url": "https://pfas.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://plane-lyspoken.foxrothschild.com/feed/",
-      "feed_url": "https://plane-lyspoken.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://dataprivacy.foxrothschild.com/feed/",
-      "feed_url": "https://dataprivacy.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://taxcontroversy.foxrothschild.com/feed/",
-      "feed_url": "https://taxcontroversy.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://wagehourlaw.foxrothschild.com/feed/",
-      "feed_url": "https://wagehourlaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
       "source": "https://www.foxrothschild.com/publications",
       "feed_url": "https://www.foxrothschild.com/publications",
       "title": "",
@@ -182,35 +17,59 @@
     },
     {
       "source": "https://advertisinglaw.foxrothschild.com/",
+      "feed_url": "https://advertisinglaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://advertisinglaw.foxrothschild.com/feed/",
       "feed_url": "https://advertisinglaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://californiaemploymentlaw.foxrothschild.com/",
-      "feed_url": "https://californiaemploymentlaw.foxrothschild.com/feed/",
+      "feed_url": "https://californiaemploymentlaw.foxrothschild.com/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
     },
     {
+      "source": "https://californiaemploymentlaw.foxrothschild.com/feed/",
+      "feed_url": "https://californiaemploymentlaw.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://delawarechancery.foxrothschild.com/",
+      "feed_url": "https://delawarechancery.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://delawarechancery.foxrothschild.com/feed/",
       "feed_url": "https://delawarechancery.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "nature": "vendor-blog",
-      "nature_basis": "path_blog"
+      "method": "feed"
     },
     {
       "source": "https://employmentclassactions.foxrothschild.com/",
       "feed_url": "https://employmentclassactions.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "discovered"
+    },
+    {
+      "source": "https://employmentclassactions.foxrothschild.com/feed/",
+      "feed_url": "https://employmentclassactions.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://njfamilylaw.foxrothschild.com/",
@@ -220,77 +79,137 @@
       "method": "discovered"
     },
     {
+      "source": "https://njfamilylaw.foxrothschild.com/feed/",
+      "feed_url": "https://njfamilylaw.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://pafamilylaw.foxrothschild.com/",
       "feed_url": "https://pafamilylaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "discovered"
+    },
+    {
+      "source": "https://pafamilylaw.foxrothschild.com/feed/",
+      "feed_url": "https://pafamilylaw.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://governmentcontracts.foxrothschild.com/",
+      "feed_url": "https://governmentcontracts.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://governmentcontracts.foxrothschild.com/feed/",
       "feed_url": "https://governmentcontracts.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://franchiselaw.foxrothschild.com/",
+      "feed_url": "https://franchiselaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://franchiselaw.foxrothschild.com/feed/",
       "feed_url": "https://franchiselaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://globaldisputeresolutioninsights.foxrothschild.com/",
-      "feed_url": "https://globaldisputeresolutioninsights.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://healthcarelawmatters.foxrothschild.com/",
-      "feed_url": "https://healthcarelawmatters.foxrothschild.com/feed/",
+      "feed_url": "https://globaldisputeresolutioninsights.foxrothschild.com/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://globaldisputeresolutioninsights.foxrothschild.com/feed/",
+      "feed_url": "https://globaldisputeresolutioninsights.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://healthcarelawmatters.foxrothschild.com/",
+      "feed_url": "https://healthcarelawmatters.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://healthcarelawmatters.foxrothschild.com/feed/",
+      "feed_url": "https://healthcarelawmatters.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://immigrationview.foxrothschild.com/",
       "feed_url": "https://immigrationview.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "discovered"
+    },
+    {
+      "source": "https://immigrationview.foxrothschild.com/feed/",
+      "feed_url": "https://immigrationview.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://insolvency.foxrothschild.com/",
-      "feed_url": "https://insolvency.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://cannabislaw.foxrothschild.com/",
-      "feed_url": "https://cannabislaw.foxrothschild.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://itsjustbusiness.foxrothschild.com/",
-      "feed_url": "https://itsjustbusiness.foxrothschild.com/feed/",
+      "feed_url": "https://insolvency.foxrothschild.com/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://insolvency.foxrothschild.com/feed/",
+      "feed_url": "https://insolvency.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://cannabislaw.foxrothschild.com/",
+      "feed_url": "https://cannabislaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://cannabislaw.foxrothschild.com/feed/",
+      "feed_url": "https://cannabislaw.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://itsjustbusiness.foxrothschild.com/",
+      "feed_url": "https://itsjustbusiness.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://itsjustbusiness.foxrothschild.com/feed/",
+      "feed_url": "https://itsjustbusiness.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://ncapb.foxrothschild.com/",
@@ -300,20 +219,39 @@
       "method": "discovered"
     },
     {
-      "source": "https://payorplay.foxrothschild.com/",
-      "feed_url": "https://payorplay.foxrothschild.com/feed/",
+      "source": "https://ncapb.foxrothschild.com/feed/",
+      "feed_url": "https://ncapb.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "feed"
     },
     {
-      "source": "https://pfas.foxrothschild.com/",
-      "feed_url": "https://pfas.foxrothschild.com/feed/",
+      "source": "https://payorplay.foxrothschild.com/",
+      "feed_url": "https://payorplay.foxrothschild.com/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://payorplay.foxrothschild.com/feed/",
+      "feed_url": "https://payorplay.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://pfas.foxrothschild.com/",
+      "feed_url": "https://pfas.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://pfas.foxrothschild.com/feed/",
+      "feed_url": "https://pfas.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://plane-lyspoken.foxrothschild.com/",
@@ -323,31 +261,57 @@
       "method": "discovered"
     },
     {
+      "source": "https://plane-lyspoken.foxrothschild.com/feed/",
+      "feed_url": "https://plane-lyspoken.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://dataprivacy.foxrothschild.com/",
+      "feed_url": "https://dataprivacy.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://dataprivacy.foxrothschild.com/feed/",
       "feed_url": "https://dataprivacy.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://taxcontroversy.foxrothschild.com/",
-      "feed_url": "https://taxcontroversy.foxrothschild.com/feed/",
+      "feed_url": "https://taxcontroversy.foxrothschild.com/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
     },
     {
+      "source": "https://taxcontroversy.foxrothschild.com/feed/",
+      "feed_url": "https://taxcontroversy.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://wagehourlaw.foxrothschild.com/",
+      "feed_url": "https://wagehourlaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://wagehourlaw.foxrothschild.com/feed/",
       "feed_url": "https://wagehourlaw.foxrothschild.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "feed"
     }
   ],
-  "post_count": 244,
-  "fetched": "2026-08-30T22:33:40Z",
+  "post_count": 250,
+  "fetched": "2026-09-06T19:17:18Z",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
