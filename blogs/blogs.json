@@ -303,6 +303,111 @@
       "method": "discovered"
     },
     {
+      "source": "https://advertisinglaw.foxrothschild.com/blog/feed/",
+      "feed_url": "https://advertisinglaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://californiaemploymentlaw.foxrothschild.com/blog/feed/",
+      "feed_url": "https://californiaemploymentlaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://delawarechancery.foxrothschild.com/blog/feed/",
+      "feed_url": "https://delawarechancery.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://governmentcontracts.foxrothschild.com/blog/feed/",
+      "feed_url": "https://governmentcontracts.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://franchiselaw.foxrothschild.com/blog/feed/",
+      "feed_url": "https://franchiselaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://globaldisputeresolutioninsights.foxrothschild.com/blog/feed/",
+      "feed_url": "https://globaldisputeresolutioninsights.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://healthcarelawmatters.foxrothschild.com/blog/feed/",
+      "feed_url": "https://healthcarelawmatters.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://insolvency.foxrothschild.com/blog/feed/",
+      "feed_url": "https://insolvency.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://cannabislaw.foxrothschild.com/blog/feed/",
+      "feed_url": "https://cannabislaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://itsjustbusiness.foxrothschild.com/blog/feed/",
+      "feed_url": "https://itsjustbusiness.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://payorplay.foxrothschild.com/blog/feed/",
+      "feed_url": "https://payorplay.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://pfas.foxrothschild.com/blog/feed/",
+      "feed_url": "https://pfas.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://dataprivacy.foxrothschild.com/blog/feed/",
+      "feed_url": "https://dataprivacy.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://taxcontroversy.foxrothschild.com/blog/feed/",
+      "feed_url": "https://taxcontroversy.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://wagehourlaw.foxrothschild.com/blog/feed/",
+      "feed_url": "https://wagehourlaw.foxrothschild.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://wagehourlaw.foxrothschild.com/feed/",
       "feed_url": "https://wagehourlaw.foxrothschild.com/feed/",
       "title": "",
@@ -310,8 +415,8 @@
       "method": "feed"
     }
   ],
-  "post_count": 250,
-  "fetched": "2026-09-06T19:17:18Z",
+  "post_count": 257,
+  "fetched": "2026-09-13T13:00:00Z",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
