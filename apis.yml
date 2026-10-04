@@ -1,4 +1,4 @@
-name: Fox Rothschild LLP
+name: Fox Rothschild
 description: >-
   Fox Rothschild LLP is a national US law firm with approximately 1,000
   attorneys across 30+ offices. The firm has no public developer APIs. Its
@@ -332,3 +332,4 @@ apis:
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
+x-legal-name: Fox Rothschild LLP
