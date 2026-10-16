@@ -2,15 +2,8 @@
   "repo": "fox-rothschild",
   "feeds": [
     {
-      "source": "https://www.foxrothschild.com/publications",
-      "feed_url": "https://www.foxrothschild.com/publications",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://www.instagram.com/foxrothschildllp/",
-      "feed_url": "https://www.instagram.com/foxrothschildllp/",
+      "source": "https://www.foxrothschild.com/blogs",
+      "feed_url": "https://www.foxrothschild.com/blogs",
       "title": "",
       "saved": 0,
       "method": "none"
@@ -303,6 +296,13 @@
       "method": "discovered"
     },
     {
+      "source": "https://wagehourlaw.foxrothschild.com/feed/",
+      "feed_url": "https://wagehourlaw.foxrothschild.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://advertisinglaw.foxrothschild.com/blog/feed/",
       "feed_url": "https://advertisinglaw.foxrothschild.com/blog/feed/",
       "title": "",
@@ -408,15 +408,22 @@
       "method": "feed"
     },
     {
-      "source": "https://wagehourlaw.foxrothschild.com/feed/",
-      "feed_url": "https://wagehourlaw.foxrothschild.com/feed/",
+      "source": "https://www.foxrothschild.com/publications",
+      "feed_url": "https://www.foxrothschild.com/publications",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "none"
+    },
+    {
+      "source": "https://www.instagram.com/foxrothschildllp/",
+      "feed_url": "https://www.instagram.com/foxrothschildllp/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 279,
-  "fetched": "2026-10-03T12:30:02Z",
+  "post_count": 289,
+  "fetched": "2026-10-10T13:15:00Z",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
