@@ -1,4 +1,4 @@
-# Fox Rothschild LLP
+# Fox Rothschild
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,76 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fox Rothschild LLP is a national US law firm with approximately 1,000 attorneys
-spread across 30+ offices, with a footprint that runs from the Mid-Atlantic
-(Philadelphia, Princeton, Wilmington, New York) through the Southeast
-(Charlotte, Raleigh, Greensboro, Greenville, Atlanta, Miami, West Palm Beach,
-Sarasota), the Midwest (Chicago, Minneapolis, Kansas City), the Mountain and
-Southwest (Denver, Dallas, Oklahoma City, Las Vegas), and the West Coast
-(Los Angeles, San Francisco, Seattle). Per the firm's own services index, its
-practice spans more than 50 named areas — from Affordable Housing and Antitrust
-through Cannabis Law, Privacy & Data Security, ESG, Life Sciences, and White
-Collar Criminal Defense.
+Fox Rothschild LLP is a national US law firm with approximately 1,000 attorneys across 30+ offices. The firm has no public developer APIs. Its programmatic surface is limited to publication and content distribution: subscription-based email alerts and 21+ topical attorney-authored blogs hosted on the LexBlog (WordPress) platform, each of which exposes a standard WordPress RSS 2.0 feed at /feed/. This index catalogs the firm and the RSS-able LexBlog network as the consumable surface.
 
-This is **not** a developer-API provider. Fox Rothschild publishes no public
-REST or GraphQL APIs, no OpenAPI specifications, no SDKs, and no GitHub
-organization. The catalog here exists because the firm runs a substantial
-LexBlog (WordPress) network of attorney-authored blogs that **are**
-machine-consumable via standard RSS 2.0 feeds at `/feed/` on each blog
-subdomain. That makes the firm's expert thought-leadership programmatically
-reachable even though the firm itself ships no API product.
+**Areas:** Law Firms · Legal · Professional Services · Blog · RSS · LexBlog · Publications · Content
 
-## What's indexed
+## Fox Rothschild on APIs.io
 
-- **21 LexBlog/WordPress topical blogs**, each with an `/feed/` RSS 2.0 endpoint
-- **Firm publications hub** at `foxrothschild.com/publications` (60+ pages of
-  alerts, articles, newsletters, podcasts; HTML only, no RSS surfaced)
-- **Email subscription channel** at `foxrothschild.com/subscribe`
-- **Podcast distribution** on Spotify, Apple Podcasts, and SoundCloud
-  (e.g. *Labor Law Lineup*, *The Presumption of Innocence Podcast Series*)
-- **Social channels**: LinkedIn, X, Facebook, Instagram
+Everything profiled for Fox Rothschild is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fox-rothschild/](https://apis.io/providers/fox-rothschild/)** — or go straight to one of the APIs or properties below.
 
-## Blog network (all on LexBlog, all RSS-able)
+### APIs (21)
 
-| Blog | Topic | RSS |
-|---|---|---|
-| Above the Fold | Advertising, Trademark & Copyright | https://advertisinglaw.foxrothschild.com/feed/ |
-| California Employment Law | California labor & employment | https://californiaemploymentlaw.foxrothschild.com/feed/ |
-| Delaware Chancery Law Blog | Delaware corporate / Chancery | https://delawarechancery.foxrothschild.com/feed/ |
-| Employment Class Actions | Class action defense | https://employmentclassactions.foxrothschild.com/feed/ |
-| NJ Family Law | New Jersey family law | https://njfamilylaw.foxrothschild.com/feed/ |
-| PA Family Law | Pennsylvania family law | https://pafamilylaw.foxrothschild.com/feed/ |
-| Federal Government Contracts & Procurement | GovCon | https://governmentcontracts.foxrothschild.com/feed/ |
-| Franchise Law Update | Franchise & distribution | https://franchiselaw.foxrothschild.com/feed/ |
-| Global Dispute Resolution Insights | International arbitration | https://globaldisputeresolutioninsights.foxrothschild.com/feed/ |
-| Health Care Law Matters | Health care | https://healthcarelawmatters.foxrothschild.com/feed/ |
-| Immigration View | US immigration | https://immigrationview.foxrothschild.com/feed/ |
-| In Solvency | Bankruptcy & restructuring | https://insolvency.foxrothschild.com/feed/ |
-| In the Weeds | Cannabis | https://cannabislaw.foxrothschild.com/feed/ |
-| It's Just Business | NC Business Court | https://itsjustbusiness.foxrothschild.com/feed/ |
-| North Carolina Appellate Blog | NC appellate | https://ncapb.foxrothschild.com/feed/ |
-| Pay or Play | Entertainment & sports | https://payorplay.foxrothschild.com/feed/ |
-| PFAS & Emerging Contaminants | Environmental | https://pfas.foxrothschild.com/feed/ |
-| Plane-ly Spoken | Aviation & drone | https://plane-lyspoken.foxrothschild.com/feed/ |
-| Privacy Compliance & Data Security | Privacy / cybersecurity | https://dataprivacy.foxrothschild.com/feed/ |
-| Tax Controversy & Financial Crimes Report | Tax / white collar | https://taxcontroversy.foxrothschild.com/feed/ |
-| Wage & Hour | FLSA / wage-and-hour | https://wagehourlaw.foxrothschild.com/feed/ |
+- [Above the Fold — Advertising, Trademark & Copyright Law Blog](https://apis.io/apis/fox-rothschild/above-the-fold-advertising-trademark-copyright-law-blog/) — Attorney-authored LexBlog covering advertising, trademark, and copyright law.
+- [California Employment Law Blog](https://apis.io/apis/fox-rothschild/california-employment-law-blog/) — Attorney-authored LexBlog covering California-specific employment law developments.
+- [Delaware Chancery Law Blog](https://apis.io/apis/fox-rothschild/delaware-chancery-law-blog/) — Attorney-authored LexBlog covering Delaware Court of Chancery decisions and corporate governance.
+- [Employment Class Actions — A General Counsel Briefing](https://apis.io/apis/fox-rothschild/employment-class-actions-a-general-counsel-briefing/) — Attorney-authored LexBlog focused on employment class action litigation.
+- [New Jersey Family Law Blog](https://apis.io/apis/fox-rothschild/new-jersey-family-law-blog/) — Attorney-authored LexBlog covering New Jersey family law.
+- [Pennsylvania Family Law Blog](https://apis.io/apis/fox-rothschild/pennsylvania-family-law-blog/) — Attorney-authored LexBlog covering Pennsylvania family law.
+- [Federal Government Contracts & Procurement Blog](https://apis.io/apis/fox-rothschild/federal-government-contracts-procurement-blog/) — Attorney-authored LexBlog covering federal contracting and procurement law.
+- [Franchise Law Update](https://apis.io/apis/fox-rothschild/franchise-law-update/) — Attorney-authored LexBlog covering franchise and distribution law.
+- [Global Dispute Resolution Insights](https://apis.io/apis/fox-rothschild/global-dispute-resolution-insights/) — Attorney-authored LexBlog covering international arbitration and global disputes.
+- [Health Care Law Matters](https://apis.io/apis/fox-rothschild/health-care-law-matters/) — Attorney-authored LexBlog covering health care regulatory and transactional law.
+- [Immigration View](https://apis.io/apis/fox-rothschild/immigration-view/) — Attorney-authored LexBlog covering US business and family immigration law.
+- [In Solvency](https://apis.io/apis/fox-rothschild/in-solvency/) — Attorney-authored LexBlog covering bankruptcy and financial restructuring.
+- [In the Weeds — Cannabis Law Blog](https://apis.io/apis/fox-rothschild/in-the-weeds-cannabis-law-blog/) — Attorney-authored LexBlog covering cannabis industry legal developments. RSS feed confirmed active (WordPress 6.8.5 / LexBlog generator).
+- [It's Just Business — NC Business Court Blog](https://apis.io/apis/fox-rothschild/its-just-business-nc-business-court-blog/) — Attorney-authored LexBlog covering the North Carolina Business Court.
+- [North Carolina Appellate Blog](https://apis.io/apis/fox-rothschild/north-carolina-appellate-blog/) — Attorney-authored LexBlog covering North Carolina appellate practice.
+- [Pay or Play — Entertainment & Sports Law Blog](https://apis.io/apis/fox-rothschild/pay-or-play-entertainment-sports-law-blog/) — Attorney-authored LexBlog covering entertainment and sports law.
+- [PFAS and Emerging Contaminants Blog](https://apis.io/apis/fox-rothschild/pfas-and-emerging-contaminants-blog/) — Attorney-authored LexBlog covering PFAS regulation and emerging environmental contaminants.
+- [Plane-ly Spoken — Aviation Law Blog](https://apis.io/apis/fox-rothschild/plane-ly-spoken-aviation-law-blog/) — Attorney-authored LexBlog covering aviation and drone law.
+- [Privacy Compliance & Data Security Blog](https://apis.io/apis/fox-rothschild/privacy-compliance-data-security-blog/) — Attorney-authored LexBlog covering data privacy law and cybersecurity compliance.
+- [Tax Controversy & Financial Crimes Report](https://apis.io/apis/fox-rothschild/tax-controversy-financial-crimes-report/) — Attorney-authored LexBlog covering tax controversy, IRS disputes, and financial crime defense.
+- [Wage & Hour — Developments & Highlights](https://apis.io/apis/fox-rothschild/wage-hour-developments-highlights/) — Attorney-authored LexBlog covering FLSA and wage-and-hour litigation developments.
 
-RSS feed at `cannabislaw.foxrothschild.com/feed/` was verified live (RSS 2.0,
-WordPress 6.8.5 / LexBlog generator).
+### Published properties
 
-## What's deliberately absent
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **No OpenAPI / AsyncAPI / JSON Schema artifacts** — there is no developer
-  API surface to document. The `openapi/`, `asyncapi/`, `json-schema/`,
-  `json-structure/`, `json-ld/`, `examples/`, `rules/`, `capabilities/`, and
-  `vocabulary/` folders are intentionally omitted per the pipeline's "do not
-  create empty/placeholder specs" rule.
-- **No GitHub organization** for Fox Rothschild.
-- **No public pricing, rate limits, or FinOps surface** — engagement is via
-  attorney/client relationships, not metered API consumption.
+#### Security (1)
 
-## Source
+Authentication, trust centre, and vulnerability disclosure.
 
-- `apis.yml` — APIs.json index of the firm and its 21 RSS-able LexBlog feeds
-- Provider home: https://www.foxrothschild.com
+- [Fox Rothschild Domain Security](https://apis.io/security/fox-rothschild/fox-rothschild-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.foxrothschild.com)
+- [Blog](https://www.foxrothschild.com/blogs)
+
+## API Evangelist rating
+
+**Kin Score 6.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 72.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fox-rothschild/](https://apis.io/providers/fox-rothschild/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fox Rothschild: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fox-rothschild/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
